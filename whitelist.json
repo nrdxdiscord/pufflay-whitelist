@@ -2,10 +2,12 @@
   "version": 1,
   "uuids": [
     "e963fe80-7a8d-4a95-a8d9-7ee0ac9b944b",
-    "bd346dd5-ac1c-427d-87e8-73bdd4bf3e13"
+    "bd346dd5-ac1c-427d-87e8-73bdd4bf3e13",
+    "90aaa2c3-1e67-41ee-add2-61b16a25eb02"
   ],
   "names": {
     "e963fe807a8d4a95a8d97ee0ac9b944b": "Zoobo",
-    "bd346dd5ac1c427d87e873bdd4bf3e13": "Player"
+    "bd346dd5ac1c427d87e873bdd4bf3e13": "Player",
+    "90aaa2c31e6741eeadd261b16a25eb02": "Player2"
   }
 }
