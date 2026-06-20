@@ -1,11 +1,9 @@
 {
   "version": 1,
   "uuids": [
-    "e963fe80-7a8d-4a95-a8d9-7ee0ac9b944b",
-    "0cc6711c-e734-458f-887b-8146627a4b82"
+    "e963fe80-7a8d-4a95-a8d9-7ee0ac9b944b"
   ],
   "names": {
-    "e963fe807a8d4a95a8d97ee0ac9b944b": "Zoobo",
-    "0cc6711ce734458f887b8146627a4b82": "Claude"
+    "e963fe807a8d4a95a8d97ee0ac9b944b": "Zoobo"
   }
 }
